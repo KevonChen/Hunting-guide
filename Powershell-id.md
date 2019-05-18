@@ -14,7 +14,7 @@
 
 自Server 2008以来的所有Windows版本以及默认包含的PowerShell版本
 
-| **PowerShell**版本 | 发行年份 | **Windows**版本                          | **先决条件**                         |
+| **PowerShell**版本 | 发行年份 | **Windows**版本                          | **先决条件**                                   |
 | ------------------ | -------- | ---------------------------------------- | ------------------------------------|
 | 1.0                | 2006年   | Windows   Server 2008                    | 没有                                |
 | 2.0                | 2009年   | Windows   7     Windows Server 2008 R2   | Microsoft .NET Framework 2.0.50727 |
@@ -27,7 +27,7 @@
 
 ## Windows附带的PowerShell版本以及支持的最高版本
 
-| **Windows**版本              | **Windows**包含的PowerShell版本 | **最高支持的PowerShell版本** |
+| **Windows**版本              | **Windows**包含的PowerShell版本 | **最高支持的PowerShell版本**            |
 | ---------------------------- | ------------------------------- | ---------------------------- |
 | Windows   Vista（SP2）       | 2.0                             | 2.0                          |
 | Windows   Server 2008（SP2） | 2.0                             | 3.0                          |
