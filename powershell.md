@@ -8,8 +8,7 @@
 
 问题三：不同的powershell ID代表什么含义？
 
-| **Windows****上的默认****PowerShell****版本**                |              |                                          |                                                              |
-| ------------------------------------------------------------ | ------------ | ---------------------------------------- | ------------------------------------------------------------ |
+| **Windows****上的默认****PowerShell****版本**                 |
 | **PowerShell****版本**                                       | **发行年份** | **Windows****版本**                      | **先决条件**                                                 |
 | 1.0                                                          | 2006年       | Windows   Server 2008                    | 没有                                                         |
 | 2.0                                                          | 2009年       | Windows   7     Windows Server 2008 R2   | Microsoft   .NET Framework 2.0.50727                         |
@@ -50,8 +49,7 @@ Windows PowerShell
 
  
 
-| **配置PowerShell事件记录**  |                                                              |                                                              |
-| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **配置PowerShell事件记录**  |
 |                             | 注册处                                                       | 组策略                                                       |
 | 模块记录                    | 键：HKLM \ SOFTWARE \ Policies \ Microsoft \   Windows \ PowerShell \ ModuleLogging    名称：EnableModuleLogging    数据：1（DWORD）键：HKLM \ SOFTWARE \ Policies \ Microsoft \   Windows \ PowerShell \ ModuleLogging \ ModuleNames    名称：[ModulePattern]    数据：[ModulePattern ]（REG_SZ）请参阅上面的屏幕截图，例如有关模块记录的信息。 | 策略\管理模板\   Windows组件\ Windows PowerShell \打开模块日志记录 |
 | 脚本块记录                  | 密钥：HKLM \ SOFTWARE \ Policies \ Microsoft \   Windows \ PowerShell \ ScriptBlockLogging     名称：EnableScriptBlockLogging     数据：1（DWORD） | 策略\管理模板\   Windows组件\ Windows PowerShell \脚本块日志记录 |
@@ -74,8 +72,7 @@ Windows PowerShell
 
  
 
-|                                                    |      |                            |                                                              |
-| -------------------------------------------------- | ---- | -------------------------- | ------------------------------------------------------------ |
+|                                                     |
 | 活动ID                                             | 关联 | 审计                       | 笔记                                                         |
 | [4100](http://www.myeventlog.com/search/show/976)  |      |                            | PowerShell遇到错误时记录                                     |
 | [4103](http://www.myeventlog.com/search/show/977)  |      | ModuleLogging              | 执行管道                                                     |
