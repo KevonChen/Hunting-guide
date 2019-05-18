@@ -14,17 +14,21 @@
 
 自Server 2008以来的所有Windows版本以及默认包含的PowerShell版本
 
-| **PowerShell**版本 | 发行年份  | **Windows**版本                          | **先决条件**                                                 |
-| ------------------ | ------------- | ---------------------------------------- | ------------------------------------------------------------ |
-| 1.0                | 2006年        | Windows   Server 2008                    | 没有                                                         |
-| 2.0                | 2009年        | Windows   7     Windows Server 2008 R2   | Microsoft   .NET Framework 2.0.50727                         |
-| 3.0                | 2012          | Windows   8     Windows Server 2012      | Microsoft   .NET Framework 4                                 |
-| 4                  | 2013          | Windows   8.1     Windows Server 2012 R2 | Microsoft   .NET Framework 4.5                               |
-| 5                  | 2016          | Windows   10                             | Microsoft   .NET Framework 4.5                               |
-| 5.1                | 2017年        | Windows   Server 2016                    | Microsoft   .NET Framework 4.5.2     （已安装于2012及更高版本） |
+| **PowerShell**版本 | 发行年份 | **Windows**版本                          | **先决条件**                         |
+| ------------------ | -------- | ---------------------------------------- | ------------------------------------|
+| 1.0                | 2006年   | Windows   Server 2008                    | 没有                                |
+| 2.0                | 2009年   | Windows   7     Windows Server 2008 R2   | Microsoft .NET Framework 2.0.50727 |
+| 3.0                | 2012年   | Windows   8     Windows Server 2012      | Microsoft .NET Framework 4         |
+| 4                  | 2013年   | Windows   8.1     Windows Server 2012 R2 | Microsoft .NET Framework 4.5       |
+| 5                  | 2016年   | Windows   10                             | Microsoft .NET Framework 4.5       |
+| 5.1                | 2017年   | Windows   Server 2016                    | Microsoft .NET Framework 4.5.2     |
+
+​                                     
+
+## Windows附带的PowerShell版本以及支持的最高版本
 
 | **Windows**版本              | **Windows**包含的PowerShell版本 | **最高支持的PowerShell版本** |
-| ---------------------------- | ------------------------------- | ----------------------------------------------------------------- |
+| ---------------------------- | ------------------------------- | ---------------------------- |
 | Windows   Vista（SP2）       | 2.0                             | 2.0                          |
 | Windows   Server 2008（SP2） | 2.0                             | 3.0                          |
 | Windows   7（SP1）           | 2.0                             | 5.1                          |
@@ -36,9 +40,9 @@
 | Windows   10                 | 5                               | 5.1                          |
 | Windows   2016               | 5.1                             | 5.1                          |
 
-​                                     显示Windows附带的PowerShell版本以及PowerShell支持的最高版本
+​        
 
-​        由于PowerShell v1.0最初是在Windows XP中引入的 - 在应用程序和服务日志可用之前 - PowerShell喜欢登录到两个不同的事件日志 - 您应该监视这两个日志：
+由于PowerShell v1.0最初是在Windows XP中引入的 - 在应用程序和服务日志可用之前 - PowerShell喜欢登录到两个不同的事件日志 - 您应该监视这两个日志：
 
 1、Windows PowerShell
 
