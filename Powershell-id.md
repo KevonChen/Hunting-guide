@@ -27,18 +27,18 @@
 
 ## Windows附带的PowerShell版本以及支持的最高版本
 
-| **Windows**版本              | **Windows**包含的PowerShell版本 | **最高支持的PowerShell版本**            |
-| ---------------------------- | ------------------------------- | ---------------------------- |
-| Windows   Vista（SP2）       | 2.0                             | 2.0                          |
-| Windows   Server 2008（SP2） | 2.0                             | 3.0                          |
-| Windows   7（SP1）           | 2.0                             | 5.1                          |
-| Windows   2008 R2（SP1）     | 5.1                             | 5.1                          |
-| Windows   8                  | 3.0                             | 5.1                          |
-| Windows   2012               | 3.0                             | 5.1                          |
-| Windows   8.1                | 4                               | 5.1                          |
-| Windows   2012 R2            | 4                               | 5.1                          |
-| Windows   10                 | 5                               | 5.1                          |
-| Windows   2016               | 5.1                             | 5.1                          |
+| **Windows**版本              | **Windows**包含的PowerShell版本 | **最高支持的PowerShell版本**               |
+| ---------------------------- | ------------------------------- | ---------------------------------------- |
+| Windows   Vista（SP2）       | 2.0                             | 2.0                                      |
+| Windows   Server 2008（SP2） | 2.0                             | 3.0                                      |
+| Windows   7（SP1）           | 2.0                             | 5.1                                      |
+| Windows   2008 R2（SP1）     | 5.1                             | 5.1                                      |
+| Windows   8                  | 3.0                             | 5.1                                      |
+| Windows   2012               | 3.0                             | 5.1                                      |
+| Windows   8.1                | 4                               | 5.1                                      |
+| Windows   2012 R2            | 4                               | 5.1                                      |
+| Windows   10                 | 5                               | 5.1                                      |
+| Windows   2016               | 5.1                             | 5.1                                      |
 
 ​        
 
