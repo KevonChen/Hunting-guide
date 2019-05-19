@@ -414,6 +414,7 @@
   说明： 内置本地组。此组的成员可以访问 WMI 资源 （如 WS 管理通过 Windows 远程管理服务） 的管理协议。这仅适用于向用户授予访问权限的 WMI 命名空间。
 
 参考链接：
-http://www.cnblogs.com/awpatp/archive/2009/12/31/1636976.html
-https://support.microsoft.com/zh-cn/help/243330/well-known-security-identifiers-in-windows-operating-systems
+- http://www.cnblogs.com/awpatp/archive/2009/12/31/1636976.html
+
+- https://support.microsoft.com/zh-cn/help/243330/well-known-security-identifiers-in-windows-operating-systems
 
