@@ -24,6 +24,8 @@ Windows威胁狩猎：
 
 - https://adsecurity.org  AD域威胁狩猎
 
+- https://github.com/ThreatHuntingProject/ThreatHunting/tree/master/hunts  windows威胁狩猎库
+
 Linux 威胁狩猎：
 
 - https://github.com/Kirtar22/Litmus_Test  关于ATT&CK技战术中提及到linux技战术的复现及检测方法
