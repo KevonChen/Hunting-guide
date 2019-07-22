@@ -26,6 +26,10 @@ Windows威胁狩猎：
 
 - https://github.com/ThreatHuntingProject/ThreatHunting/tree/master/hunts  windows威胁狩猎库
 
+- https://www.4hou.com/technology/10430.html   甲方安全建设之Windows横向移动攻击的检测
+
+- https://www.freebuf.com/column/178936.html  横向移动攻击点与识别 
+
 Linux 威胁狩猎：
 
 - https://github.com/Kirtar22/Litmus_Test  关于ATT&CK技战术中提及到linux技战术的复现及检测方法
