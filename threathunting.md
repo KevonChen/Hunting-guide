@@ -93,6 +93,10 @@ UEBA系列：
 
 - https://unit42.paloaltonetworks.com/  威胁研究
 
+- https://enigma0x3.net/  内网漫游
+
+- http://www.hexacorn.com/  安全资料
+
 
 
 
