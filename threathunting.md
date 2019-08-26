@@ -97,6 +97,24 @@ UEBA系列：
 
 - http://www.hexacorn.com/  安全资料
 
+博客站
 
+- https://blog.fox-it.com/ fox-it博客站
+
+- https://www.praetorian.com/blog  Praetorian安全博客
+
+- https://www.trimarcsecurity.com/posts   AD域攻防与研究
+
+- https://www.crowdstrike.com/blog/  研究博客
+
+- https://www.sagedatasecurity.com/blog  sage advice网络安全博客
+
+- https://www.cybereason.com/blog   Nocturnus研究|网络安全新闻和分析
+
+- https://www.exabeam.com/   更智能的SIEM，UEBA和SOAR
+
+- https://www.acalvio.com/blog/   博客档案|Acalvio
+
+- https://posts.specterops.io/archive  SpecterOps团队博客
 
 
