@@ -117,4 +117,6 @@ UEBA系列：
 
 - https://posts.specterops.io/archive  SpecterOps团队博客
 
+- https://hausec.com  infosec博客
+
 
