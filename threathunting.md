@@ -68,6 +68,8 @@ UEBA系列：
 
 - https://eqllib.readthedocs.io/en/latest/atomicblue.html    EQL分析库 蓝色原子
 
+- https://github.com/MiladMSFT/ThreatHunt  威胁模拟工具-powershell
+
 
 综合其他：
 
