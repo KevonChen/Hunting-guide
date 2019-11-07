@@ -70,6 +70,8 @@ UEBA系列：
 
 - https://github.com/MiladMSFT/ThreatHunt  威胁模拟工具-powershell
 
+- https://repo.theoremforge.com/pentesting 渗透测试工具（外网）
+
 
 综合其他：
 
