@@ -1,6 +1,6 @@
-Threat Hunting 威胁狩猎资料合集
+# Threat Hunting 威胁狩猎资料合集
 
-Windows威胁狩猎：
+## Windows威胁狩猎：
 
 - https://github.com/infosecn1nja/AD-Attack-Defense    AD杀伤链攻击与防御
 
@@ -30,12 +30,12 @@ Windows威胁狩猎：
 
 - https://www.freebuf.com/column/178936.html  横向移动攻击点与识别 
 
-Linux 威胁狩猎：
+## Linux 威胁狩猎：
 
 - https://github.com/Kirtar22/Litmus_Test  关于ATT&CK技战术中提及到linux技战术的复现及检测方法
 
 
-UEBA系列：
+## UEBA系列：
 
 - https://www.secpulse.com/archives/95668.html  UEBA架构设计之路1：UEBA框架
 
@@ -56,9 +56,11 @@ UEBA系列：
 - https://mp.weixin.qq.com/s/bm8jK8mLsYkWNH_fwIcPAg  实践：UEBA视角下的威胁情报聚类与攻击者分析 
 
 
+## SOAR
 
+- https://github.com/correlatedsecurity/Awesome-SOAR  SOAR国外资料收集
 
-工具使用：
+## 工具使用：
 
 - https://github.com/JPCERTCC/SysmonSearch   JPCERT关于SysmonSearch介绍及使用方法
 
@@ -75,7 +77,7 @@ UEBA系列：
 - https://null-byte.wonderhowto.com/ 空字节（外网）
 
 
-综合其他：
+## 综合其他：
 
 - <https://github.com/SoulSec/resource-threat-hunting>   资源威胁检测和狩猎
 
@@ -103,7 +105,7 @@ UEBA系列：
 
 - http://www.hexacorn.com/  安全资料
 
-博客站
+## 博客站
 
 - https://blog.fox-it.com/ fox-it博客站
 
