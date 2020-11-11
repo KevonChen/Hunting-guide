@@ -29,7 +29,7 @@ ICMP协议：<https://www.linuxidc.com/Linux/2018-09/154369.htm>
 
 经典推荐：**《TCP/IP详解卷1：协议》 《TCP/IP详解·卷2：实现》 《TCP-IP详解卷3：TCP事务协议》**
 
-## 0x2 终端日志详解
+## 0x2 终端日志
 
 Windows_sysmon：<https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon>
 
@@ -49,7 +49,7 @@ Linux日志文件（常见）及其功能：<http://c.biancheng.net/view/1097.ht
 
 FTP日志详解：<https://www.ktanx.com/blog/p/362>
 
-## 0x3 中间件日志详解
+## 0x3 中间件日志
 
 Apache日志参考：<https://zhuanlan.zhihu.com/p/138647322>
 
