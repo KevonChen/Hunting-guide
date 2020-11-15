@@ -93,7 +93,7 @@
 
 - https://github.com/0xpwntester/CB-Threat-Hunting   Carbon Black —威胁狩猎
 
-- https://www.4hou.com/web/11241.html  史上最全攻击模拟工具盘点
+- https://pentestit.com/adversary-emulation-tools-list/ 史上最全攻击模拟工具盘点
 
 - http://www.sohu.com/a/299955882_476857 威胁建模模型ATT&CK
 
