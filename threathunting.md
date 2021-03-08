@@ -28,7 +28,10 @@
 
 - https://www.4hou.com/technology/10430.html   甲方安全建设之Windows横向移动攻击的检测
 
-- https://www.freebuf.com/column/178936.html  横向移动攻击点与识别 
+- https://www.freebuf.com/column/178936.html  横向移动攻击点与识别
+
+- https://github.com/splunk/security_content splunk相关的规则、机器学习算法、playbooks
+
 
 ## Linux 威胁狩猎：
 
